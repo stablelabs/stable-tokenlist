@@ -66,7 +66,7 @@
       "name": "Wrapped eETH",
       "symbol": "weETH",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/28695.png"
     },
     {
       "chainId": 988,
@@ -74,7 +74,7 @@
       "name": "Wrapped Ether",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/2396.png"
     },
     {
       "chainId": 988,
@@ -82,7 +82,7 @@
       "name": "Bridged USDC",
       "symbol": "USDC.e",
       "decimals": 6,
-      "logoURI": ""
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/18852.png"
     },
     {
       "chainId": 988,
@@ -90,7 +90,7 @@
       "name": "PayPal USD",
       "symbol": "PYUSD0",
       "decimals": 6,
-      "logoURI": ""
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/27772.png"
     },
     {
       "chainId": 988,
@@ -98,7 +98,7 @@
       "name": "Bitcoin (Avalanche)",
       "symbol": "BTC.b",
       "decimals": 8,
-      "logoURI": ""
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/20721.png"
     },
     {
       "chainId": 988,
@@ -106,7 +106,7 @@
       "name": "Lombard Staked Bitcoin",
       "symbol": "LBTC",
       "decimals": 8,
-      "logoURI": ""
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/33652.png"
     }
   ]
 }
