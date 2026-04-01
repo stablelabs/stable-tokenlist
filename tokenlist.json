@@ -1,0 +1,112 @@
+{
+  "name": "Stable Token List",
+  "logoURI": "https://stablefoundation.notion.site/image/attachment%3A90d66a28-d92b-4980-adc5-a4730fb1a319%3Astable-logotype-framed-square-light.png?table=block&id=2a085f37-3a04-80dc-a8ca-ec8cde4bb1cc&spaceId=16937830-5159-40e9-b9eb-030434e2c1b8&width=380&userId=&cache=v2",
+  "keywords": ["USDT0", "USDT", "stablecoin", "Tether"],
+  "timestamp": "2026-03-26T00:00:00.000Z",
+  "tokens": [
+    {
+      "chainId":988,
+      "address": "0x779Ded0c9e1022225f8E0630b35a9b54bE713736",
+      "name": "Tether USD",
+      "symbol": "USDT0",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38517.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0x0000000000000000000000000000000000001003",
+      "name": "Stable",
+      "symbol": "STABLE",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/38892.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0xB8CE59FC3717ada4C02eaDF9682A9e934F625ebb",
+      "name": "Tether Gold",
+      "symbol": "XAUT0",
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/37082.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0x5Bff88cA1442c2496f7E475E9e7786383Bc070c0",
+      "name": "Staked Frax USD",
+      "symbol": "sfrxUSD",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36038.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0x80Eede496655FB9047dd39d9f418d5483ED600df",
+      "name": "Frax USD",
+      "symbol": "frxUSD",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/36039.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0x985FB0821Eef0056ec26DD8b33dC61b9415B7F4b",
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0xfDD22Ce6D1F66bc0Ec89b20BF16CcB6670F55A5a",
+      "name": "Theo Short Duration US Treasury Fund",
+      "symbol": "thBILL",
+      "decimals": 6,
+      "logoURI": "https://static1.tokenterminal.com//theo/products/thbill/logo.png"
+    },
+    {
+      "chainId": 988,
+      "address": "0x60a08269e5f3406d8fd7892567d53188C7F75009",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 988,
+      "address": "0x783129E4d7bA0Af0C896c239E57C06DF379aAE8c",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 988,
+      "address": "0x8a2B28364102Bea189D99A475C494330Ef2bDD0B",
+      "name": "Bridged USDC",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 988,
+      "address": "0x99aF3EeA856556646C98c8B9b2548Fe815240750",
+      "name": "PayPal USD",
+      "symbol": "PYUSD0",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 988,
+      "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
+      "name": "Bitcoin (Avalanche)",
+      "symbol": "BTC.b",
+      "decimals": 8,
+      "logoURI": ""
+    },
+    {
+      "chainId": 988,
+      "address": "0xecAc9C5F704e954931349Da37F60E39f515c11c1",
+      "name": "Lombard Staked Bitcoin",
+      "symbol": "LBTC",
+      "decimals": 8,
+      "logoURI": ""
+    }
+  ]
+}
